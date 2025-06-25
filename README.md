@@ -6,9 +6,9 @@ Work
 - 💬 Ask me about coding...
 - 📫 How to reach me: kanishkakaushik59@gmail.com...
   
-Skills
+Skills :
 Java
-c
+C
 C++
 html
 css
